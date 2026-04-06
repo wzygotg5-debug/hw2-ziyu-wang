@@ -21,4 +21,4 @@ The output is a structured summary that includes:
 I chose this task because in real work settings, meeting notes are often hard to read and easy to forget about after the meeting ends. A tool like this can help turn rough notes into a more organized first draft, so people can save time and follow up more easily. I also think this is a practical use of generative AI because it supports business communication without trying to replace human judgment completely.
 
 ## Video Link
-(add later)
+https://youtu.be/iCNacwHlQ8g
